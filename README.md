@@ -23,7 +23,7 @@
 
 <div>
   <a href="https://github.com/thiagofranca85">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofranca85&hide_title=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofranca85&card_width=400&hide_title=true&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofranca85&card_width=400&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
