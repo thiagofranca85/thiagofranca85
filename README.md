@@ -1,9 +1,9 @@
 <div align="center" style="display: inline_block">
-  <a href="https://www.linkedin.com/in/thiagofranca85/">
+  <a href="https://www.linkedin.com/in/thiagofranca85/" target="_blank">
   <img allign="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  <a href="https://www.facebook.com/thiagofranca85">
+  <a href="https://www.facebook.com/thiagofranca85" target="_blank">
   <img allign="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black"/>
-  <a href="https://www.instagram.com/thiagofranca85/">
+  <a href="https://www.instagram.com/thiagofranca85/" target="_blank">
   <img allign="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/>
 </div>
 <br>
@@ -14,7 +14,7 @@
   <img allign="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black"/>
   <a href="mailto:thiagoaugustofranca85@gmail.com">
   <img allign="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/>
-  <a href="https://api.whatsapp.com/send?phone=5547999753438">
+  <a href="https://api.whatsapp.com/send?phone=5547999753438" target="_blank">
   <img allign="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/>
 </div>
 <br>
