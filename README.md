@@ -37,7 +37,3 @@
   <h2 align="center">TOOLS</h2>
   <img src="https://skillicons.dev/icons?i=vscode,powershell,linux,postman,discord&theme=dark"/>
 </div>
-
-
-
-
