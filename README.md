@@ -4,9 +4,9 @@
   <img allign="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>
   <a href="https://www.instagram.com/thiagofranca85/">
   <img allign="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/>
-  <a href="thiagoaugusto.franca@hotmail.com">
+  <a href="mailto:thiagoaugusto.franca@hotmail.com">
   <img allign="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black"/>
-  <a href="thiagoaugustofranca85@gmail.com">
+  <a href="mailto:thiagoaugustofranca85@gmail.com">
   <img allign="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/>
 </div>
 <br>
