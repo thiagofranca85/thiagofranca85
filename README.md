@@ -20,11 +20,13 @@
 - 😄 Pronouns: He/Him
 <br>
 <br>
+<br>
 
 <div align="center">
   <a href="https://github.com/thiagofranca85">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofranca85&card_width=350&hide_title=true&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofranca85&card_width=350&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofranca85&hide_title=true&show_icons=true&theme=dracula"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofranca85&card_width=468&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
