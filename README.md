@@ -24,7 +24,7 @@
 <br> 
 🔭 I’m currently working as Systems Support Analyst and looking for an opportunity as a Programmer. 
 <br>
-🌱 I’m currently learning Python on +Devs2Blu Program (Blumenau/SC - Brazil) in a Full Stack Developer Course.
+🌱 I finished the +Devs2Blu Program (Blumenau/SC - Brazil) in a Python Full Stack Developer Course. (03/2023)
 <br>
 Also learning about FastAPI, Microservices, SQLModel, and Automation.
 <br>
