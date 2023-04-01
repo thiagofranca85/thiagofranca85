@@ -41,7 +41,7 @@ Also learning about FastAPI, Microservices, SQLModel, and Automation.
   
 <div align="center" style="display: inline_block"><br>
   <h2 align="center">SKILLS</h2>
-  <img style="align-items: center" src="https://skillicons.dev/icons?i=git,html,css,bootstrap,figma,js,docker,postgres,sqlite,py,selenium,fastapi,flask,django,bots&theme=dark"/>
+  <img style="align-items: center" src="https://skillicons.dev/icons?i=git,html,css,bash,bootstrap,figma,js,docker,postgres,sqlite,py,selenium,fastapi,flask,django,bots&theme=dark"/>
 </div>
 <div align="center">
   <h2 align="center">TOOLS</h2>
