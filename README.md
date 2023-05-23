@@ -19,16 +19,15 @@
 </div>
 <br>
 <p align="center">
- Hi 👋 I'm Thiago Augusto França, a Full Stack Developer from Brazil passionate to learn new technologies and solve problems.
+ Hi 👋 I'm Thiago Augusto França, a Full Stack Developer from Brazil who is passionate about learning new technologies and solving problems.
 <br>
 <br> 
-🔭 I’m currently working as Systems Support Analyst and looking for an opportunity as a Programmer. 
+🔭 I’m currently working as Systems Support Analyst and looking for an opportunity as a Programmer.
 <br>
 🌱 I finished the +Devs2Blu Program (Blumenau/SC - Brazil) in a Python Full Stack Developer Course. (03/2023)
 <br>
-Also learning about FastAPI, Microservices, SQLModel, and Automation.
-<br>
-😄 Pronouns: He/Him
+I am also learning about FastAPI, Microservices, SQLModel, and Automation.
+Javascript, HTML, and CSS too.
 </p>
 <br>
 
