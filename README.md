@@ -24,10 +24,12 @@
 <br> 
 🔭 I’m working as a programmer with SAP B1 maintaining transactions and creating addons to this ERP.
 <br>
+  I have a degree in Administration but I'm looking for new adventures in the IT field, as it is an area that I like and enjoy, so
+  I'm in a transition to this new professional area.
 🌱 I finished the +Devs2Blu Program (Blumenau/SC - Brazil) in a Python Full Stack Developer Course. (03/2023)
 <br>
-What I really enjoy in Python is FastAPI, Microservices, SQLModel, and Automation.
-Also, I'm learning a lot about C#, MVC, Blazor and Javascript, HTML, and CSS too.
+What I enjoy in Python is FastAPI, Microservices, SQLModel, and Automation (PyAutoGUI, RPA, BS4, etc).
+Also, I'm learning a lot about C#, MVC, Blazor and Javascript, HTML, and CSS.
 </p>
 <br>
 
