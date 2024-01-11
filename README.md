@@ -42,7 +42,7 @@ Also, I'm learning a lot about C#, MVC, Blazor and Javascript, HTML, and CSS.
   
 <div align="center" style="display: inline_block"><br>
   <h2 align="center">SKILLS</h2>
-  <img style="align-items: center" src="https://skillicons.dev/icons?i=cs,git,html,css,bash,bootstrap,figma,js,docker,postgres,sqlite,py,selenium,fastapi,flask,bots&theme=dark"/>
+  <img style="align-items: center" src="https://skillicons.dev/icons?i=cs,py,js,nodejs,react,git,github,githubactions,visualstudio,stackoverflow,linux,html,css,bash,bootstrap,tailwind,cloudflare,discord,figma,docker,postgres,sqlite,selenium,fastapi,flask,bots&theme=dark"/>
 </div>
 <div align="center">
   <h2 align="center">TOOLS</h2>
