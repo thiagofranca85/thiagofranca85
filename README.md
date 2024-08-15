@@ -22,15 +22,8 @@
  Hi 👋 I'm Thiago Augusto França, a programmer from Brazil who is passionate about learning new technologies and solving problems.
 <br>
 <br> 
-🔭 I’m working as a programmer with SAP B1 maintaining transactions and creating addons to this ERP.
+🔭 I’m working as a WordPress Developer.
 <br>
-  I have a degree in Administration but I'm looking for new adventures in the IT field, as it is an area that I like and enjoy, so
-  I'm in a transition to this new professional area.
-🌱 I finished the +Devs2Blu Program (Blumenau/SC - Brazil) in a Python Full Stack Developer Course. (03/2023)
-<br>
-What I enjoy in Python is FastAPI, Microservices, SQLModel, and Automation (PyAutoGUI, RPA, BS4, etc).
-Also, I'm learning a lot about C#, MVC, Blazor and Javascript, HTML, and CSS.
-</p>
 <br>
 
 <div align="center">
@@ -42,7 +35,7 @@ Also, I'm learning a lot about C#, MVC, Blazor and Javascript, HTML, and CSS.
   
 <div align="center" style="display: inline_block"><br>
   <h2 align="center">SKILLS</h2>
-  <img style="align-items: center" src="https://skillicons.dev/icons?i=cs,py,js,nodejs,react,git,github,githubactions,visualstudio,stackoverflow,linux,html,css,bash,bootstrap,tailwind,cloudflare,discord,figma,docker,postgres,sqlite,selenium,fastapi,flask,bots&theme=dark"/>
+  <img style="align-items: center" src="https://skillicons.dev/icons?i=cs,py,wordpress,js,nodejs,react,git,github,githubactions,visualstudio,stackoverflow,linux,html,css,bash,bootstrap,tailwind,cloudflare,discord,figma,docker,postgres,sqlite,selenium,fastapi,flask,bots&theme=dark"/>
 </div>
 <div align="center">
   <h2 align="center">TOOLS</h2>
