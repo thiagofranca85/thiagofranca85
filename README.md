@@ -11,7 +11,7 @@
  Hi 👋 I'm Thiago Augusto França, a programmer from Brazil who is passionate about learning new technologies and solving problems.
 <br>
 <br> 
-🔭 I’m working as a WordPress Developer.
+🔭 I’m working as a WordPress Developer. (PHP + ACF)
 <br>
 <br>
 
@@ -24,7 +24,7 @@
   
 <div align="center" style="display: inline_block"><br>
   <h2 align="center">SKILLS</h2>
-  <img style="align-items: center" src="https://skillicons.dev/icons?i=py,js,wordpress,linux,html,css,nodejs,react,git,bash,bootstrap,docker,postgres,fastapi,flask&theme=dark"/>
+  <img style="align-items: center" src="https://skillicons.dev/icons?i=py,js,php,wordpress,linux,html,css,nodejs,react,git,bash,bootstrap,docker,postgres,fastapi,flask&theme=dark"/>
 </div>
 <div align="center">
   <h2 align="center">TOOLS</h2>
