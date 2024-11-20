@@ -12,10 +12,6 @@
 <br>
   <a href="mailto:thiagoaugusto.franca@hotmail.com">
   <img allign="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black"/>
-  <a href="mailto:thiagoaugustofranca85@gmail.com">
-  <img allign="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/>
-  <a href="https://api.whatsapp.com/send?phone=5547999753438">
-  <img allign="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/>
 </div>
 <br>
 <p align="center">
