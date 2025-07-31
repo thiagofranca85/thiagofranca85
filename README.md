@@ -10,15 +10,10 @@
 <p align="center">
  Hi 👋 I'm Thiago Augusto França, a programmer from Brazil who is passionate about learning new technologies and solving problems.
 <br>
-<br> 
-🔭 I’m working as a WordPress Developer. (PHP + ACF)
-<br>
 <br>
 
 <div align="center">
   <a href="https://github.com/thiagofranca85">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofranca85&hide_title=true&show_icons=true&theme=dracula"/>
-  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofranca85&card_width=468&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
