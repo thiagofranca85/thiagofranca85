@@ -2,9 +2,7 @@
 💬 <b>CONTACT</b> 💬
 <br>
   <a href="https://www.linkedin.com/in/thiagofranca85/">
-  <img allign="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  <a href="mailto:thiagoaugusto.franca@hotmail.com">
-  <img allign="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black"/>
+  <img allign="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>  
 </div>
 <br>
 <p align="center">
